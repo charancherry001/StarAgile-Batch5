@@ -154,7 +154,7 @@ cd <DirectoryName> --- Change Directory
 
 To delete everything ---- rm -rf *
 
-
+this is a new line added by charan
 
 
 
