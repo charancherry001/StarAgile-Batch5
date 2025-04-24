@@ -29,7 +29,6 @@ Shell Scripting Videos:
 DevOps on AWS (2 days)
 ----------------------------
 
-Adding a line to know the pull
 
 
 
